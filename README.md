@@ -6,11 +6,11 @@
 
 ## Overview
 
-This project analyzes movie data pertaining to Microsoft's entry into film making. This is a brand new film studio with significant resources, but little experience with film making. Analysis of box office numbers and film critic reviews does reveal some trends as to why some films tend to perfrom better than others. Microsoft can use this data to help guide their decision making as the begin to produce feature films. 
+This project analyzes movie data pertaining to Microsoft's entry into film making. This is a brand new film studio with significant resources, but little experience with film making. Analysis of box office numbers and film critic reviews does reveal some trends as to why some films tend to perfrom better than others. Microsoft can use this data to help guide their decision making as they begin to produce feature films. 
 
 ## Business Problem
 
-Microsoft needs insight into how to invest their resources. While Microsoft is a giant in other industries, they have no prior experience producting films. Microsoft can increase the liklihood that their early films will be successful by examining box office and film critic review data from previous movies. In doing this, Microsoft can gain a clearer understanding of what types of films tend to generate more profit, and which film professionals tend to make successful products. 
+Microsoft needs insight into how to invest their resources. While Microsoft is a giant in other industries, they have no prior experience producting films. Microsoft can increase the likelihood that their early films will be successful by examining box office and film critic review data from previous movies. In doing this, Microsoft can gain a clearer understanding of what types of films tend to generate more profit, and which film professionals tend to make successful products. 
 
 ## Data
 
