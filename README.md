@@ -28,23 +28,23 @@ This project uses descriptive analysis of Movie data, which can help show where 
 ## Results
 
 The most lucrative genres both in terms of ROI and profit, are animation, sci-fi, adventure, and family. There are a few other viable genres, but overall there is significant drop off in profitability outside of these categories
-![profit_bar_plot](https://github.com/cmhollman/dsc-phase-1-project-v2-3/blob/master/Images/Profit%20Bar%20Plot.png)
-![ROI_bar_plot](https://github.com/cmhollman/dsc-phase-1-project-v2-3/blob/master/Images/ROI%20Barplot.png)
+![profit_bar_plot](https://github.com/cmhollman/dsc-phase-1-project-v2-3/blob/master/Images/new_profit_plot.png)
+![ROI_bar_plot](https://github.com/cmhollman/dsc-phase-1-project-v2-3/blob/master/Images/new_ROI_plot.png)
 
 The domestic and worldwide box office gross numbers shadow one another. The both peak in May and remain elevated through July. There are secondary peaks in March and November. The months with the lowest average box office performance are January and September.
 
 ![release_date_plot](https://github.com/cmhollman/dsc-phase-1-project-v2-3/blob/master/Images/Release%20Line%20Plot.png)
 
-Lastly, I compiled a list of directors most frequently reviewed by top film critics. I then chose the top 15 based on ratio of postive ("fresh") reviews per negative ("rotten") review. The director with the most positive reviews within this subset is Clint Eastwood, the director with the highest fresh/rotten ration is Alexander Payne.
+Lastly, I compiled a list of directors most frequently reviewed by top film critics. I then chose the top 15 based on percentage of postive ("fresh") reviews. The director with the most positive reviews within this subset is Clint Eastwood, the director with the highest percentage of "fresh" reviews is Alexander Payne.
 
-![director_review_plot](https://github.com/cmhollman/dsc-phase-1-project-v2-3/blob/master/Images/Director%20Review%20Plot.png)
+![director_review_plot](https://github.com/cmhollman/dsc-phase-1-project-v2-3/blob/master/Images/new_director_plot.png)
 
 ## Conclusions
 
 This analysis leads to three recommendations for Microsofts early films:
 
 - **Focus on films that fall into the more lucrative genres.** For early films, Microsoft should focus on genres that have a history of performing well at the box office. They should produce mainly films that fall into one or more of the top genres on the ROI and profit bar charts.
-- **From partenerships with the top 15 directors.** There is some nuance required here, as some of these directors will not have experience or interest in producing films that fall into the animation category in particular. In general, all of these directors have good reputations among influential critics and tend to generate positive reviews. 
+- **From partenerships with the top 15 directors.** There is some nuance required here, as some of these directors will not have experience or interest in producing films that fall into the animation category in particular. In general, all of these directors have good reputations among influential critics and tend to generate positive reviews. I reccommend prioritizing directors with higher percentages of positive reviews.  
 - **Release high budget films during May-July.** While Microsoft should avoid having multiple releases overlap and compete with one another for ticket sales, it would be beneficial to stagger releases throughout peak months.
 
 ### Next Steps
